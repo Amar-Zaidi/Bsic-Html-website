@@ -1,2 +1,2 @@
 # Bsic-Html-website
-This is simple Html website maded using HTML
+This is simple Html website builted using HTML
